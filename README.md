@@ -71,6 +71,7 @@ Running:
     $ java -jar jacobian-host.jar 'player args' 'player' 'player' 'player' 3031333123220300123320212213021202022103101101003113 NONE 3NS
 
 The deal specifier was taken adopted from Deal by Thomas Andrews. His explanation:
+
 >It's a line of 52 numbers, where 0, 1, 2, and 3 mean north, east, south, and west, respectively.
 >The first digit tells where the ace of spades goes, the second digit tells where the king of
 >spades goes, etc.  The deal is numeric specifying the location for each of the 52 cards in order.
