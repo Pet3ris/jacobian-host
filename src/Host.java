@@ -1,5 +1,3 @@
-//package com.peteriserins.app;
-
 import java.io.*;
 
 public class Host
